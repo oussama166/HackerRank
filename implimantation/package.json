@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "nodemon ./Climbing_the_lead/Climbing_the_leaderboard.ts",
     "test": "jest",
+    "testClimb": "jest ./Climbing_the_lead/Climbing_the_leaderboard.spec.ts",
     "tsc": "tsc"
   },
   "author": "oussama166",
